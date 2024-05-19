@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- To see how these attributes are used, please visit https://material.io/develop/android/theming/color/ -->
+    <style name="Base.Theme.Sunflower" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#484848</item>
+        <item name="colorOnPrimary">#484848</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorOnSurface">#212121</item>
+        <item name="colorAccent">#212121</item>
+        <item name="colorSurface">@color/sunflower_gray_50</item>
+        <item name="colorSecondary">@color/sunflower_yellow_500</item>
+        <item name="android:colorBackground">#212121</item>
+    </style>
+
+    <style name="Theme.Sunflower" parent="Base.Theme.Sunflower"/>
+
+    <style name="Theme.Sunflower.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Sunflower.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
+    <style name="TextAppearance.Sunflower.Toolbar.Text" parent="TextAppearance.MaterialComponents.Headline5" >
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style>
+
+</resources>
