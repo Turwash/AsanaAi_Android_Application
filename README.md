@@ -5,12 +5,10 @@ AsanaAi extends its reach to Android devices, offering users the convenience of 
 
 ## Screenshots of the app
 
-<img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-57-14-949_com.example.android.getfit.jpg" alt="Home Page" width="240"/> <img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-57-17-833_com.example.android.getfit.jpg" alt="Info Page" width="240"/>
-<img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-57-33-170_com.example.android.getfit.jpg" alt="Database" width="240"/> <img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-57-37-968_com.example.android.getfit.jpg" alt="Database" width="240"/>
-<img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-57-41-347_com.example.android.getfit.jpg" alt="Exercise Types" width="240"/> <img src="![WhatsApp Image 2024-05-19 at 9 46 32 PM](https://github.com/Turwash/AsanaAi_Android_Application/assets/121122397/7cb6a96c-a742-4b35-918a-dd78dda87ca6)
-" alt="Camera" width="240"/>
-<img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-59-19-603_com.example.android.getfit.jpg" alt="Camera" width="240"/> <img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-16-59-45-633_com.example.android.getfit.jpg" alt="Camera" width="240"/>
-<img src="https://github.com/nimom38/Pushup-and-Squats-Counter/blob/main/app/src/main/res/drawable/Screenshot_2021-12-02-17-00-03-257_com.example.android.getfit.jpg" alt="Count Finished Page" width="240"/>
+![WhatsApp Image 2024-05-19 at 9 50 34 PM](https://github.com/Turwash/AsanaAi_Android_Application/assets/121122397/1c32c2d5-c90c-43f0-ae55-1d7af30a7172)
+![WhatsApp Image 2024-05-19 at 9 50 35 PM](https://github.com/Turwash/AsanaAi_Android_Application/assets/121122397/231edd27-f329-449b-a382-ceee1bfca4df)
+![WhatsApp Image 2024-05-19 at 9 50 36 PM](https://github.com/Turwash/AsanaAi_Android_Application/assets/121122397/de2788bc-2a92-422e-8702-bc956fa876e3)
+
 
 ## How to use
 
